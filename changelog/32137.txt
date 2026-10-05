@@ -1,0 +1,3 @@
+```release-note:improvement
+packaging: Added RuntimeDirectory to the systemd unit so unix listeners can create sockets under /run/vault.
+```
